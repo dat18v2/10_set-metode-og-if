@@ -22,6 +22,7 @@ teacher1.printInfo();
 // - give him a warm greeting in the snow if so
 // - otherwise just write a normal greeting
 // do a check on age
+// combine check on name with check on age
 // use method to find out SU grant
 }
 }
