@@ -10,10 +10,13 @@ public class runPerson{
    
    //ændr person
    //person1.navn = "Daniel";
-   person1.setPerson("Daniel", 22,"12345566");
+   person1.setPerson("Daniel", 12,"12345566");
    
    //udskriv person
    person1.printInfo();
    
+   
+   person1.setPerson("Claus", 17, "xyz");
+   person1.printInfo();
    }
 }
