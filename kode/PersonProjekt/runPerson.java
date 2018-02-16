@@ -18,5 +18,11 @@ public class runPerson{
    
    person1.setPerson("Claus", 17, "xyz");
    person1.printInfo();
+   
+   String green = "grøn";
+   String gren = "grøn";
+   if (green.equals(gren)){
+      System.out.println("Lig med");
+   }
    }
 }
